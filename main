@@ -1,0 +1,10 @@
+from SourceHandler import sortFiles
+import numpy as np
+from scipy import misc
+
+sortFiles("C:\\Users\Ben\Documents\GitHub\Image_Interpreter\Oranges")
+
+data = np.load('0.npy')
+misc.imsave('rgb_gradient.png', data)
+
+print (data)

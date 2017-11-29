@@ -3,7 +3,7 @@ This file is all about sorting files and working directories, filled with useful
 Each method has good documentation, and does a specific job.
 @author = Ben Even-Shoshan
 """
-import imageio
+
 import os
 from scipy import misc
 import numpy as np

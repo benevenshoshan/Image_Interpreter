@@ -1,11 +1,4 @@
-from SourceHandler import sortFiles
-import numpy as np
-from scipy import misc
-
-sortFiles("C:\\Users\Ben\Documents\GitHub\Image_Interpreter\Oranges")
-
-data = np.load('0.npy') #Lodaing the .npy file
-misc.toimage(data).show() #Showing the array as an image
-misc.imsave('rgb_gradient.png', data) #Saving it as an image
-
-input("Press enter to stop viewing the picture") #nessecary to keep the program running
+from keras.models import load_model
+model = load_model('my_model.h5')
+print model.acc_value.eval(feed_dict={img: mnist_data.test.images,
+                          labels: mnist_data.test.labels})

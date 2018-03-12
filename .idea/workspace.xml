@@ -2,54 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c1ac1c3-3594-4422-b95b-a37a067f92a2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/test_set/Lemon/2Q== (3).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/test_set/Lemon/9k= (4).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/test_set/Lemon/IMG_3340.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/test_set/Lemon/IMG_3345.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/test_set/Lemon/IMG_3377.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/test_set/Lemon/Z (1).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/test_set/Lemon/images (10).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/test_set/Lemon/images (18).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/test_set/Lemon/images (3).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/test_set/Lemon/images (5).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/test_set/Lemon/images (7).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/2Q== (1).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/2Q== (4).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/2Q== (5).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/2Q==.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/9k= (2).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/9k=.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/IMG_3380.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/IMG_3446.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/IMG_3448.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/IMG_3482.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/IMG_3483.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/IMG_3484.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/IMG_3663.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/IMG_3670.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/IMG_3673.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/Z (5).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/images (1).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/images (11).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/images (14).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/images (16).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/images (17).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/images (19).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/images (2).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/images (21).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/images (22).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/images (23).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/images (24).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/images (25).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/images (26).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/images (4).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/images (6).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/images (8).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/images (9).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oranges/training_set/Lemon/images.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm" afterPath="$PROJECT_DIR$/Algorithm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main" afterPath="$PROJECT_DIR$/main" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,7 +16,7 @@
       <file leaf-file-name="Algorithm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
+            <state relative-caret-position="0">
               <caret line="45" column="54" lean-forward="false" selection-start-line="45" selection-start-column="54" selection-end-line="45" selection-end-column="54" />
               <folding>
                 <element signature="e#45#80#0" expanded="true" />
@@ -72,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="901">
-              <caret line="53" column="24" lean-forward="false" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+            <state relative-caret-position="680">
+              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -87,18 +40,30 @@
       <file leaf-file-name="SourceHandler.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SourceHandler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="476">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding>
+                <element signature="e#200#209#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="unknown.py" pinned="false" current-in-tab="true">
+        <entry file="file://C:/page/unknown.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="unknown.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/page/unknown.py">
+      <file leaf-file-name="unknown_support.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/page/unknown_support.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4">
-              <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+            <state relative-caret-position="476">
+              <caret line="55" column="47" lean-forward="true" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -107,7 +72,7 @@
       <file leaf-file-name="cnn.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cnn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
+            <state relative-caret-position="391">
               <caret line="29" column="50" lean-forward="false" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
               <folding>
                 <element signature="e#46#81#0" expanded="true" />
@@ -137,10 +102,13 @@
         <option value="$PROJECT_DIR$/cnn.py" />
         <option value="$PROJECT_DIR$/Algorithm" />
         <option value="$PROJECT_DIR$/main" />
+        <option value="C:/page/unknown.tcl" />
+        <option value="C:/page/unknown.py" />
+        <option value="C:/page/unknown_support.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -164,6 +132,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,7 +149,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.unknown">
     <configuration name="Algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,23 +197,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Image_Interpreter" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cnn.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="cnn" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Convolutional_Neural_Networks" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Image_Interpreter" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Convolutional_Neural_Networks/cnn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,20 +235,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="unknown_support" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:/page" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Image_Interpreter" />
+      <option name="SCRIPT_NAME" value="C:/page/unknown_support.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.main" />
       <item index="1" class="java.lang.String" itemvalue="Python.Algorithm" />
       <item index="2" class="java.lang.String" itemvalue="Python.unknown" />
-      <item index="3" class="java.lang.String" itemvalue="Python.cnn" />
-      <item index="4" class="java.lang.String" itemvalue="Python.cnn (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.cnn (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.unknown_support" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.main" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Algorithm" />
-        <item index="2" class="java.lang.String" itemvalue="Python.cnn (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.cnn" />
-        <item index="4" class="java.lang.String" itemvalue="Python.unknown" />
+        <item index="0" class="java.lang.String" itemvalue="Python.unknown" />
+        <item index="1" class="java.lang.String" itemvalue="Python.unknown_support" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Algorithm" />
+        <item index="4" class="java.lang.String" itemvalue="Python.cnn (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -318,19 +286,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2098121" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1046875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32804233" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22328043" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -349,6 +317,54 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Algorithm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="45" column="54" lean-forward="false" selection-start-line="45" selection-start-column="54" selection-end-line="45" selection-end-column="54" />
+          <folding>
+            <element signature="e#45#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#200#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/page/unknown.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="29" column="50" lean-forward="false" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+          <folding>
+            <element signature="e#46#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="53" column="24" lean-forward="false" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -597,7 +613,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cnn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
+        <state relative-caret-position="391">
           <caret line="29" column="50" lean-forward="false" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
           <folding>
             <element signature="e#46#81#0" expanded="true" />
@@ -607,19 +623,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
+        <state relative-caret-position="0">
           <caret line="45" column="54" lean-forward="false" selection-start-line="45" selection-start-column="54" selection-end-line="45" selection-end-column="54" />
           <folding>
             <element signature="e#45#80#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/page/unknown.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -628,21 +636,47 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SourceHandler.py">
+    <entry file="file://$PROJECT_DIR$/main">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="680">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/page/unknown.tcl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main">
+    <entry file="file://$PROJECT_DIR$/SourceHandler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="53" column="24" lean-forward="false" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+        <state relative-caret-position="476">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#200#209#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/page/unknown_support.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="55" column="47" lean-forward="true" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/page/unknown.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
